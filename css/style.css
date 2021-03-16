@@ -1,0 +1,41 @@
+
+.container-fluid{
+    background-color: #F5DA81;
+}
+
+.bg-light{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.quem-somos{
+    background-color: #E3F6CE;
+    border: white solid 3px;
+}
+
+.margin{
+    padding: 15px;
+    padding-bottom: 40px;
+}
+
+.col-lg-4{
+    padding: 10px;
+}
+ 
+.parceiros{
+    background-color: #ff9b85;
+    border: white solid 3px;
+    padding: 40px;
+}
+
+.serviços{
+    background-color: #60d394;
+    border: white solid 3px;
+    padding: 40px;
+}
+
+footer{
+    background-color: darkgray;
+    padding: 20px;
+    text-align: center;
+    }
